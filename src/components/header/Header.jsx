@@ -11,7 +11,7 @@ const Header = () => {
 	return (
 		<MainHeader>
 			<TextContainer>
-				<h1><strong>Welcome to:</strong></h1>
+				
 				<h2>Falconsight Aerial Solutions</h2>
 
 				<h3>
